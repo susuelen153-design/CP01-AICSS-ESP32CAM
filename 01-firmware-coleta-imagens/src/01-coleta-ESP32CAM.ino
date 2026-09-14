@@ -16,8 +16,8 @@
 // CONFIGURACOES DO ALUNO
 // =========================
 namespace Aluno {
-  const char WIFI_SSID[] = "UFO-PC";      // altere para o nome da sua rede WiFi
-  const char WIFI_PASS[] = "987654321";  // altere para a senha da sua rede WiFi
+  const char WIFI_SSID[] = "Suellen WIfi";  // altere para o nome da sua rede WiFi
+  const char WIFI_PASS[] = "Su@601300";     // altere para a senha da sua rede WiFi
   const char HOSTNAME[]  = "NOMEESP32CAM";   // nome do dispositivo na rede
 
   // Veja ao final do arquivo os tamanhos suportados para a captura das imagens
